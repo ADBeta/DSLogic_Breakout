@@ -1,9 +1,9 @@
-# DSLogic 16 Channel Breakout
+# DSLogic 16-Channel Breakout
 
 ## Description
 A Breakout board for the 16-Channel DSLogic Logic Analyzers, which breaks the
-1.27mm pitch headers out into 2.45mm pin headers, Common IC Footprints, and
-includes an area for a breadboard!  
+1.27mm pitch headers out into 2.45mm pin headers, and includes an area  for
+protoboarding!  
 
 ## Gallery
 
